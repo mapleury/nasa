@@ -1,4 +1,4 @@
-# cars_app
+# Solnari App
 
 A new Flutter project.
 
